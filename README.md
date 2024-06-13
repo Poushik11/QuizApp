@@ -1,5 +1,4 @@
-image:
-![image](https://github.com/Poushik11/QuizApp/assets/115363626/a47e4698-01e3-46dd-9e27-dba5ddd2783c)
+
 
 # Getting Started with Create React App
 
